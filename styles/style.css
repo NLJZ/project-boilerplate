@@ -1,0 +1,13 @@
+body {
+  background-color: pink;
+  font-family: futura, helvetica, sans-serif;
+}
+
+h1 {
+  background-color: skyblue;
+  max-width: min-content;
+  padding: 1rem;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=style.css.map */
